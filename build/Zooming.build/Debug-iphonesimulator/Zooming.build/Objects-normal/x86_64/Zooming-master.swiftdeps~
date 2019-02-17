@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "8bf6279aea34602153f6f77cbc72b0cd"
+build_time: [1550394632, 790848000]
+inputs:
+  "/Users/laserino/Desktop/Projects/swift-\u043C\u043E\u0434\u0443\u043B\u044C3/13/Zooming/Zooming/ViewController.swift": !dirty [1550394632, 0]
+  "/Users/laserino/Desktop/Projects/swift-\u043C\u043E\u0434\u0443\u043B\u044C3/13/Zooming/Zooming/AppDelegate.swift": [1550393483, 0]
